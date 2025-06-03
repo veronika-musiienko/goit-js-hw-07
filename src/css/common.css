@@ -12,3 +12,50 @@ body {
   color: #212121;
   line-height: 1.5;
 }
+
+/*task1*/
+
+.go-back {
+  visibility: hidden;
+}
+#categories {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  color: #2e2f42;
+  font-family: "Montserrat";
+}
+
+.item {
+  background-color: #f6f6fe;
+  padding: 16px;
+  margin-bottom: 24px;
+  border-radius: 8px;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.items {
+  padding: 8px 16px;
+  margin-bottom: 8px;
+  border: 1px solid #808080;
+  border-radius: 4px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+}
+
+.h2 {
+  margin-bottom: 16px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0, 1em;
+}
+
+/* task2 */
+
