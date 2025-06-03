@@ -54,7 +54,7 @@ body {
   font-weight: 600;
   font-size: 24px;
   line-height: 1.33;
-  letter-spacing: 0, 1em;
+  letter-spacing: 0,1em;
 }
 
 /* task2 */
@@ -79,7 +79,6 @@ body {
 }
 
 /* task3 */
-
 #name-input {
   font-family: "Montserrat";
   width: 360px;
