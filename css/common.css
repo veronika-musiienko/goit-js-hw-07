@@ -159,10 +159,7 @@ h1 {
 }
 
 /* task5 */
-.color {
-  visibility: hidden;
-  display: none;
-}
+
 
 .widget {
   display: flex;
